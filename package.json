@@ -1,0 +1,22 @@
+{
+  "name": "open-bootcamp",
+  "version": "1.0.0",
+  "description": "mi primer projecto en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warcod/primer-projecto-openBootcamp.git"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "guido irigoyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warcod/primer-projecto-openBootcamp/issues"
+  },
+  "homepage": "https://github.com/Warcod/primer-projecto-openBootcamp#readme"
+}
